@@ -1,0 +1,13 @@
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\command\Controller.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\command\enums\CommandType.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\command\impl\ConfigurationController.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\filters\EncodingFilter.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\command\impl\OrdersDeliveryController.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\command\impl\CoffeeController.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\command\impl\OrdersController.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\filters\LocaleFilter.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\handlers\RequestHandler.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\command\impl\CoffeeChangeController.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\command\impl\CoffeeAddController.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\command\impl\OrdersShowController.java
+D:\Java-may-programs\Test_tasks\SCAND\coffee-01\coffee-01-web\src\main\java\servlet\FrontController.java
