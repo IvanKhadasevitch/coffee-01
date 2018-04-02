@@ -1,0 +1,4 @@
+services\impl\CoffeeOrderServiceImplTest.class
+services\impl\CoffeeTypeServiceImplTest.class
+services\impl\ConfigurationServiceImplTest.class
+services\impl\CoffeeOrderItemServiceImplTest.class
