@@ -1,5 +1,0 @@
-utils\SingletonBuilderTest.class
-dao\impl\CoffeeTypeDaoImplTest.class
-dao\impl\ConfigurationDaoImplTest.class
-dao\impl\CoffeeOrderDaoImplTest.class
-dao\impl\CoffeeOrderItemDaoImplTest.class
